@@ -29,7 +29,7 @@ if the number of connection exceeded. it add that ip into the iptables and for t
 - [node-cron](https://www.npmjs.com/package/node-cron) - The node-cron module is tiny task scheduler
 - [child_process](https://nodejs.org/api/child_process.html) - he child_process module provides the ability to run commands
 
-This programe is open sourced with under [MIT Licence][https://opensource.org/licenses/MIT]
+This programe is open sourced with under [MIT Licence](https://opensource.org/licenses/MIT)
  on GitHub.
 
 ## Installation
